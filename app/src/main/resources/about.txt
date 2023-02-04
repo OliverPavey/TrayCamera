@@ -1,0 +1,6 @@
+Tray Camera
+
+Right-click the tray camera and select "Identify Screens" to see the screen numbers.
+Then select (or tick, in the menu) the screens you wish to capture images of.
+Double-click the camera each time you wish to take an image (or images).
+And finally use "Open Image Folder" to see the images captured.
