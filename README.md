@@ -36,6 +36,6 @@ java -jar app/build/libs/TrayCamera.jar
 Alternatively you may double-click the TrayCamera.jar from your file browser.
 
 > If you see an error dialog stating "Java virtual machine launcher", "A Java exception has occurred"
-> then check that you are running Java 8 or above.
+> then check that you are running Java 11 or above.
 > 
 > e.g. On Windows right-click the TrayCamera.jar and select a different runtime from the "Open With" submenu.
