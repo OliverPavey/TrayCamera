@@ -30,7 +30,7 @@ The JAR will be generated as `app/build/libs/TrayCamera.jar`
 To launch TrayCamera use the command line:
 
 ```bash
-java -jar TrayCamera.jar
+java -jar app/build/libs/TrayCamera.jar
 ```
 
 Alternatively you may double-click the TrayCamera.jar from your file browser.
